@@ -1,0 +1,24 @@
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.deps.json
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.runtimeconfig.json
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.runtimeconfig.dev.json
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.dll
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.pdb
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.csprojAssemblyReference.cache
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.AssemblyInfoInputs.cache
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.AssemblyInfo.cs
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.dll
+C:\Users\uriel\source\repos\MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.deps.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.runtimeconfig.dev.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\bin\Debug\netcoreapp2.1\MultiplicacionDeMatrices.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.csprojAssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.pdb
+C:\Users\danie\Downloads\C#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.dll
+C:\Users\danie\Downloads\C#\7MultiplicacionDeMatrices\obj\Debug\netcoreapp2.1\MultiplicacionDeMatrices.pdb

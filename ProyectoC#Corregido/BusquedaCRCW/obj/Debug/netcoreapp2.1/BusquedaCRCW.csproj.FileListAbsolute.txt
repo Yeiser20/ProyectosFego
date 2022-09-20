@@ -1,0 +1,40 @@
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.deps.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.dev.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csprojAssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.deps.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.dev.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csprojAssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfo.cs
+C:\Users\danie\Downloads\C#\4BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.deps.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\bin\Debug\netcoreapp2.1\BusquedaCRCW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\BusquedaCRCW\obj\Debug\netcoreapp2.1\BusquedaCRCW.genruntimeconfig.cache

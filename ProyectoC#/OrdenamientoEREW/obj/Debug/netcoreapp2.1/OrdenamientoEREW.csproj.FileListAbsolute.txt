@@ -1,0 +1,23 @@
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.deps.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.runtimeconfig.dev.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.csprojAssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.deps.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\bin\Debug\netcoreapp2.1\OrdenamientoEREW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoEREW\obj\Debug\netcoreapp2.1\OrdenamientoEREW.genruntimeconfig.cache

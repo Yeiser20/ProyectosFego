@@ -1,0 +1,35 @@
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.deps.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.dev.json
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csprojAssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\uriel\OneDrive\Documentos\Facultad\2019-B\Proyecto c#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.deps.json
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.json
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.dev.json
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfo.cs
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\C#\5OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.deps.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\bin\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.dll
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.pdb
+C:\Users\danie\OneDrive\Documentos\4º SEMESTRE FACULTAD\Paradigmas 2\ProyectoC#\OrdenamientoCRCW\obj\Debug\netcoreapp2.1\OrdenamientoCRCW.genruntimeconfig.cache
